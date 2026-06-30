@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Sri 👋</h1>
+<h1 align="center">Hey, I'm Srilalitha Perumalla 👋</h1>
 <h3 align="center">I build AI applications, web systems, and full-stack products integrated with cloud technologies.</h3>  
 
 ---
