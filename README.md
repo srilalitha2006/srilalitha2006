@@ -89,10 +89,5 @@ Discussions █████████████░░░░░ 70%
 
 ---
 
-## 📊 Activity  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srilalitha2006&show_icons=true&theme=radical)    
-
----
-
 ## ✨ Quote  
 *"Technology should empower people, solve problems, and create opportunities."*  
