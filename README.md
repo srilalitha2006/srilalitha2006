@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Srilalitha Perumalla 👋</h1>
-<h3 align="center">I build AI applications, web systems, and full-stack products integrated with cloud technologies.</h3>  
+<h3 align="center">I build Web applications, AI applications, and full-stack projects integrated with cloud technologies.</h3>  
 
 ---
 
